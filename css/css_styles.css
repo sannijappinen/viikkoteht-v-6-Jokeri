@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+button {
+    padding: 10px;
+    background-color: #d3d3e3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #b0b0c1;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+table { 
+    border-collapse: separate; 
+    border-spacing: 15px;   
+    
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    background-color: #f9e6c2;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
